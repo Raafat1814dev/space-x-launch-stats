@@ -1,0 +1,8 @@
+node_modules
+/client
+# i don't wnat to commit the client 
+# it is going to be the place where our 
+# React app sits 
+# because we are going to build our React applicatoin 
+# into our public folder of our server when we get ready 
+# for deployment 
